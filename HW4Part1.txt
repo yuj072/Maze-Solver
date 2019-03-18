@@ -1,0 +1,4 @@
+1) isEmpty uses the isEmpty method in the DoubleEndedLL class which returns true if and only if the head and tail nodes are null. Takes O(1) to complete.
+2) addElement uses the addFirst method in the DoubleEndedLL class which takes a O(1) to complete.
+3) removeElement uses the removeFirst method in the DoubleEndedLL class which takes a O(1) to complete.
+4) size uses the size method in the DoubleEndedLL class which has a variable keeping track of how many elements are in the list, takes O(1) to complete.
